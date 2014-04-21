@@ -1,6 +1,6 @@
-formatter-jsonp
+formatter-binary
 ===============
-[![Build Status](https://travis-ci.org/restify/formatter-binary.svg?branch=refactor/mochaopts)](https://travis-ci.org/restify/formatter-binary)
+[![Build Status](https://travis-ci.org/restify/formatter-binary.svg?branch=master)](https://travis-ci.org/restify/formatter-binary)
 
 Installation
 ============
