@@ -1,3 +1,11 @@
+# Deprecated!
+
+This now lives in the main restify repository. To use the restify formatters, please use:
+
+```js
+require('restify').formatters
+```
+
 formatter-binary
 ===============
 [![Build Status](https://travis-ci.org/restify/formatter-binary.svg?branch=master)](https://travis-ci.org/restify/formatter-binary)
